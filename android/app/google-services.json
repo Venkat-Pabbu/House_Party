@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062368279766",
+    "project_id": "house-party-53eb7",
+    "storage_bucket": "house-party-53eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062368279766:android:33c605f4469c4e103f1d77",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062368279766-lttat41gpmsvure7j0817cbfjmv7ck3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4MkNGMosac_vB93Y7oA02d91nMYnsuWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062368279766-lttat41gpmsvure7j0817cbfjmv7ck3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
